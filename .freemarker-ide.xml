@@ -1,0 +1,7 @@
+<config>
+	<context-values>
+	</context-values>
+	<macro-library>
+		<entry namespace="wordT" path="src/main/resources/wordT.ftl" project="base" type="file"/>
+	</macro-library>
+</config>
